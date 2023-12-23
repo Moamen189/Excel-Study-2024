@@ -8,7 +8,6 @@ Generate a schedule in Excel with date, work, Science,and tech columns.
 - [Installation](#installation)
 - [Formatting](#formatting)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Overview
 
